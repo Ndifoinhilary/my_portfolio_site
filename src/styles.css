@@ -33,6 +33,13 @@ section.padding {
   padding: 5rem 0;
 }
 
+.background {
+  padding-top: 50px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
 section img.background {
   height: 100%;
   left: 50%;
